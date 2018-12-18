@@ -1,0 +1,1 @@
+# StringClassWithPointer
