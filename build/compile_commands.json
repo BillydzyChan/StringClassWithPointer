@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/guoha/Documents/GitHub/StringClassWithPointer/build",
+  "command": "C:\\LLVM\\bin\\g++.exe    -g   -o CMakeFiles\\sayings2.dir\\sayings2.cpp.obj -c C:\\Users\\guoha\\Documents\\GitHub\\StringClassWithPointer\\sayings2.cpp",
+  "file": "C:/Users/guoha/Documents/GitHub/StringClassWithPointer/sayings2.cpp"
+},
+{
+  "directory": "C:/Users/guoha/Documents/GitHub/StringClassWithPointer/build",
+  "command": "C:\\LLVM\\bin\\g++.exe    -g   -o CMakeFiles\\sayings2.dir\\stringgood.cpp.obj -c C:\\Users\\guoha\\Documents\\GitHub\\StringClassWithPointer\\stringgood.cpp",
+  "file": "C:/Users/guoha/Documents/GitHub/StringClassWithPointer/stringgood.cpp"
+}
+]

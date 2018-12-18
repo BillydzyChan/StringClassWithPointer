@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/guoha/Documents/GitHub/StringClassWithPointer/sayings2.cpp
+iostream
+-
+stringgood.h
+C:/Users/guoha/Documents/GitHub/StringClassWithPointer/stringgood.h
+cstdlib
+-
+ctime
+-
+
+C:/Users/guoha/Documents/GitHub/StringClassWithPointer/stringgood.cpp
+cstring
+-
+stringgood.h
+C:/Users/guoha/Documents/GitHub/StringClassWithPointer/stringgood.h
+
+C:/Users/guoha/Documents/GitHub/StringClassWithPointer/stringgood.h
+iostream
+-
+
